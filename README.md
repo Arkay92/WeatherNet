@@ -1,4 +1,4 @@
-# WeatherNet-PyTorch
+# WeatherNet
 
 A Convolutional Neural Network (CNN) model for weather prediction, implemented in PyTorch. This model utilizes the `dc-weather-prediction` dataset from Hugging Face to predict weather attributes from satellite images.
 
@@ -6,7 +6,7 @@ A Convolutional Neural Network (CNN) model for weather prediction, implemented i
 
 1. Clone this repository:
 ```
-git clone https://github.com/<your-username>/WeatherNet-PyTorch.git
+git clone https://github.com/Arkay92/WeatherNet.git
 ```
 
 2. Install the required dependencies:
